@@ -1,0 +1,16 @@
+customer,product,sale
+john,Laptop,45000
+John,Phone,30000
+PETER,Generator,120000
+Mary,Phone,
+john ,Laptop,45000
+Grace,Fridge,78000
+David,Laptop,-45000
+Peter,Generator,120000
+,Monitor,35000
+Mary,Phone,25000
+GRACE,Fridge,78000
+Samuel,Laptop,40000
+Samuel,Laptop,40000
+David,Monitor,32000
+Mary,Phone,20000

@@ -1,0 +1,12 @@
+customer,product,sale
+John,Laptop,45000.0
+John,Phone,30000.0
+Peter,Generator,120000.0
+Mary,Phone,0.0
+Grace,Fridge,78000.0
+David,Laptop,-45000.0
+unknown,Monitor,35000.0
+Mary,Phone,25000.0
+Samuel,Laptop,40000.0
+David,Monitor,32000.0
+Mary,Phone,20000.0
